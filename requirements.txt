@@ -2,5 +2,6 @@ Flask
 Flask-Restful
 Flask-JWT 
 Flask-SQLAlchemy
+python-dotenv
 uwsgi
 psycopg2
