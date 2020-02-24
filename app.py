@@ -42,4 +42,4 @@ api.add_resource(StoreList, '/stores')
 # ? This code execut only if we execut app.py if we import app somewhere __name__ != __main__
 # if __name__ == '__main__':
 db.init_app(app)
-app.run(port=5000, debug=True)
+# app.run(port=5000, debug=True)
